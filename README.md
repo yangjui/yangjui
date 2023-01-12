@@ -1,13 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,1,10&height=300&text=HELLO!&desc=JUI's%20Github%20profile)
 
-Hi there 👋	
+
+❤️Tech Stack❤️
 
 
-Please visit my blog
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
-
-❤️  https://blog.naver.com/yangjui1004  ❤️
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
 
 ![JUI's github stats](https://github-readme-stats.vercel.app/api?username=yangjui&show_icons=true&ring_color=ffaad6&title_color=fc8fc8&icon_color=ffb1d9)
