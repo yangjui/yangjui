@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,1,10&height=300&text=HELLO!&desc=JUI's%20Github%20profile)
 
 Hi there 👋
+
+
 Please visit my blog
+
+
 ❤️  https://blog.naver.com/yangjui1004  ❤️
 
 
