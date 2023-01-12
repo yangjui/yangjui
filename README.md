@@ -2,9 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,1,10&height=300&text=HELLO!&desc=JUI's%20Github%20profile)
 
-🌱 안녕하세요!
-게임 개발자가 되기 위해 공부를 시작했습니다.
-많이 지켜봐주세요~!
+🌱양주이입니다~!
 
 ❤️  https://blog.naver.com/yangjui1004  ❤️
 
